@@ -7,7 +7,7 @@ Topsis to find the best pre-trained Model for text sentence similarity.
 # Methodology 
 ![image](https://github.com/iosaman503/102103043_Topsis_PretrainedModel/assets/90442567/4bdd0de2-dad8-45a0-b53e-9059d5bd8133)
 
-In the First stage, lines of sentences were collected based on different evaluation parameters to be tested on. The sentences were tokenized , models were extracted from Hugging Face, models were used to find sentecne similarity between the tet pairs based on 4 evaluation parameters and results were stored in a CSV File.
+In the initial phase, sentence data was gathered, comprising various sentence pairs intended for evaluation based on distinct parameters. Subsequently, tokenization was applied, and models were retrieved from Hugging Face. These models were then employed to compute sentence similarity for the given text pairs across four evaluation parameters. The outcomes were recorded and stored in a CSV file for further analysis.
 
 # Description :
 1. Text Similarity Analysis:
