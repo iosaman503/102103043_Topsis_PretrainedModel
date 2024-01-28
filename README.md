@@ -39,7 +39,8 @@ The CSV File for Input and Output has been uplooad in the repository section nam
 # Graphical Analysis :
 Following is the Graphical Analysis for the same :
 
-![image](https://github.com/iosaman503/102103043_Topsis_PretrainedModel/assets/90442567/4c92ac8d-f8ae-450d-9486-a5b2ca045fb8)
+![image](https://github.com/iosaman503/102103043_Topsis_PretrainedModel/assets/90442567/abd6b433-cca2-4a78-90f6-c91505568197)
+
 
 
 
