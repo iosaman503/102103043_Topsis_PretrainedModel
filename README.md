@@ -28,7 +28,7 @@ Python Code: We wrote Python code to apply TOPSIS analysis on the normalized dat
 
 # Input/Output :
 
-The CSV File for Input and Output has been uplooad in the repository section namely 'performance_values.csv' and 'results_model_scores_topsis'.
+The CSV File for Input and Output has been uplooad in the repository section namely 'text_model_scores.csv' and 'results_model_scores_topsis'.
 
 # Results :
 
