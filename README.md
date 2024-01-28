@@ -23,7 +23,7 @@ CSV File Creation:
 4. Topsis Analysis:
 
 Normalization: We normalized the data to prepare it for TOPSIS analysis.
-Weights and Impact: We assigned weights (1, 1, 2, 2) and impact signs (-, -, +, +) to the parameters for TOPSIS based on the specific I am performing for sentence similarity.
+Weights and Impact: We assigned weights (1, 1, 2, 2) and impact signs (-, -, +, +) to the parameters for TOPSIS based on the specific task that I am performing of sentence similarity.
 Python Code: We wrote Python code to apply TOPSIS analysis on the normalized data.
 
 # Input/Output :
