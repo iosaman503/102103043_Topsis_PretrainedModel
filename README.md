@@ -1,5 +1,5 @@
 # 102103043_Topsis_PretrainedModelsComparison
-This is an Assignment Task for finding the best pre-trained model taken from Hugging Face for comparing the best model for text sentence similarity.
+This Project aims to find the best pre-trained model taken from Hugging Face for comparing the best model for text sentence similarity.
 
 # Title
 To find the best pre-trained Model by applying Topsis for text sentence similarity.
